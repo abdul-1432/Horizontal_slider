@@ -28,14 +28,14 @@ To use the Horizontal Slider Component in your project, follow these steps:
 
 2. **Include Files**: Include the downloaded CSS and JavaScript files in your HTML:
 
-```html
+```HTML
 <link rel="stylesheet" href="path/to/horizontal-slider.css">
 <script src="path/to/horizontal-slider.js"></script>
 ```
 
 3. **Add HTML Markup**: Create an HTML element to serve as the slider container:
 
-```html
+```HTML
 <div id="slider-container"></div>
 ```
 
