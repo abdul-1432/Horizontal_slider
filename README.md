@@ -2,7 +2,14 @@
 
 The Horizontal Slider Component is a versatile and customizable UI element that allows users to select a value from a continuous range by dragging a handle horizontally along a track. This README provides an overview of the Horizontal Slider Component, its features, installation, usage, customization options, and contribution guidelines.
 
-![Horizontal Slider Demo](demo.gif)
+![1](https://github.com/abdul-1432/Horizontal_slider/assets/124916666/b9fdf523-a897-429f-add0-2bd8bb647048)
+
+
+
+
+
+
+
 
 ## Features
 
