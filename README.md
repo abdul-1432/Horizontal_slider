@@ -50,8 +50,8 @@ const sliderContainer = document.getElementById('slider-container');
 const slider = new HorizontalSlider(sliderContainer, {
   minValue: 0,
   maxValue: 100,
-  initialValue: 50,
-  showValue: true,
+  initialValue 50,
+  show value: true,
   onValueChange: (value) => {
     console.log('Selected value:', value);
   },
@@ -65,7 +65,7 @@ You can customize the appearance and behavior of the Horizontal Slider Component
 - `minValue`: The minimum value of the slider's range (default: 0).
 - `maxValue`: The maximum value of the slider's range (default: 100).
 - `initialValue`: The initial value of the slider (default: halfway between `minValue` and `maxValue`).
-- `showValue`: Display the selected value on the handle or in a tooltip (default: true).
+- `show value`: Display the selected value on the handle or in a tooltip (default: true).
 - `onValueChange`: A callback function to execute when the slider value changes.
 
 For more advanced customization, you can modify the provided CSS or extend the component's functionality in the JavaScript code.
