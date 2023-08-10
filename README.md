@@ -4,6 +4,7 @@ The Horizontal Slider Component is a versatile and customizable UI element that 
 
 ![1](https://github.com/abdul-1432/Horizontal_slider/assets/124916666/b9fdf523-a897-429f-add0-2bd8bb647048)
 
+![2](https://github.com/abdul-1432/Horizontal_slider/assets/124916666/c87f35ad-1dbc-4453-9aad-448f70ee8804)
 
 
 
